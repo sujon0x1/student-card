@@ -6,7 +6,7 @@ Easily create and personalize a Bangladeshi student ID card with this user-frien
 
 1. **Visit Website:**
 
-    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://sujon0x1.github.io/student-card/)
+    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://sujon0xff.github.io/student-card/)
 
 ## ✨ Key Features of the Student ID Card Maker
 - **Customizable Photos**: Click on any image (institution logo or student photo) to upload your own directly from your gallery.
